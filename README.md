@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou o Vinícius 👋  
+Estudante de Desenvolvimento de Sistemas pelo SENAI (conclusão em 2025).  
+Tenho experiência em projetos acadêmicos e pessoais que envolvem desenvolvimento web, mobile e banco de dados.  
+Meu objetivo é me tornar um desenvolvedor, aplicando a tecnologia para resolver problemas reais.
+
+## 🔧 Tecnologias
+- JavaScript, Node.js, React Native
+- HTML, CSS, Tailwind
+- PostgreSQL, Express.js
+
 
 <!--
 **ViniciusSurlo/ViniciusSurlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
