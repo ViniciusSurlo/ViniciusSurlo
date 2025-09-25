@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSurlo&show_icons=true&theme=radical" />
