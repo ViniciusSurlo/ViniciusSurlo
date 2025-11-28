@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<h1 align="center">Vinícius Surlo Gama</h1>
+<h1 align="center">Vinícius Surlo</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | SENAI</h3>
 
 <p align="center">
